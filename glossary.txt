@@ -1,0 +1,32 @@
+DEX	GE
+Prime Requisite	Primärattribut
+Hit Dice	Trefferwürfel
+1d4	1W4
+Maximum Level	Maximale Stufe
+Gnome	Gnom
+gem	Edelstein
+proficiency	Fähigkeit
+illusion magic	Illusionsmagie
+magic user	Magier
+character	Charakter
+saving throws	Rettungswürfe
+dwarf	Zwerg
+dwarves	Zwerge
+infravision	Infravision
+feet	Fuß
+ability	Fähigkeit
+disarm traps	Fallen entschärfen
+crossbow	Armbrust
+attack rolls	Angriffswürfe
+damage rolls	Schadenswürfe
+spells	Zaubersprüche
+illusions	Illusionen
+armor class	Rüstungsklasse
+creatures	Kreaturen
+Level	Stufe
+detect magic	Magie erkennen
+continual light	Dauerhaftes Licht
+invisibility	Unsichtbarkeit
+Reaching 9 th Level	Erreichen der 9. Stufe
+Level Progression	Stufen
+Experience	Erfahrung
