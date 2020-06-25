@@ -30,3 +30,18 @@ invisibility	Unsichtbarkeit
 Reaching 9 th Level	Erreichen der 9. Stufe
 Level Progression	Stufen
 Experience	Erfahrung
+Bard	Barde
+Requirements	Mindestanforderungen
+CHA	CH
+STR	ST
+INT	IN
+None	Keine Beschränkung
+fighter	Kämpfer
+glory	Ruhm
+Bards	Barden
+weapons	Waffen
+chain mail	Kettenhemd
+shields	Schilde
+Cleric	Kleriker
+Saving Throw table	Rettungswurftabelle
+Saving Throw	Rettungswurf
