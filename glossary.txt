@@ -45,3 +45,10 @@ shields	Schilde
 Cleric	Kleriker
 Saving Throw table	Rettungswurftabelle
 Saving Throw	Rettungswurf
+Charm Person	Person bezaubern
+Charm Monster	Monster bezaubern
+percentage chart	Prozenttabelle
+Scrolls	Schriftrollen
+hp	TP
+Hit point modifiers	Trefferpunktmodifikatoren
+constitution	Konstitution
